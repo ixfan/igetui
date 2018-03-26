@@ -2,7 +2,7 @@
   "name": "v5dj/igetui",
   "description": "个推官方SDK.",
   "license": "MIT",
-  "minimum-stability": "dev",
+  "minimum-stability": "dev-master",
   "keywords": ["getui","push","个推","个推SDK"],
   "authors": [
     {
