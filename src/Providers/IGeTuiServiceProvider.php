@@ -5,6 +5,8 @@
  * Date: 2018/3/26 0026
  * Time: 20:03
  */
+namespace V5DJ\Push\IGeTui\Providers;
+
 use Illuminate\Support\ServiceProvider;
 
 class IGeTuiServiceProvider extends ServiceProvider
