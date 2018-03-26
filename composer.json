@@ -15,7 +15,6 @@
   "require": {
     "php": ">=7.0.0"
   },
-  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "V5DJ\\Push\\IGeTui\\": "src/"
