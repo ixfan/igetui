@@ -3,16 +3,18 @@
   "description": "个推官方SDK.",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "dev",
+  "version": "1.0.0",
+  "keywords": ["getui","push","个推","个推SDK"],
   "authors": [
     {
-      "name": "v5dj",
-      "email": "admin@5v5.com"
+      "name": "zhuangmx",
+      "email": "542092324@qq.com"
     }
   ],
   "require": {
-
+    "php": ">=7.0.0"
   },
-  "minimum-stability": "dev",
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
