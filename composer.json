@@ -1,0 +1,22 @@
+{
+  "name": "v5dj/igetui",
+  "description": "个推官方SDK.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "v5dj",
+      "email": "admin@5v5.com"
+    }
+  ],
+  "require": {
+
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "V5DJ\\Push\\IGeTui\\": "src/"
+    }
+  }
+}
