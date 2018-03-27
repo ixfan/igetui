@@ -13,7 +13,6 @@ class IGeTuiServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        parent::boot();
         //载入个推sdk
         require_once __DIR__ . '/../../lib/IGt.Push.php';
         require_once __DIR__ . '/../../lib/igetui/IGt.AppMessage.php';
